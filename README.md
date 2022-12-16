@@ -1,10 +1,7 @@
-# branle
+# QWERTY
 
-an experimental twitter-like [nostr](https://github.com/fiatjaf/nostr) client using [absurd-sql](https://github.com/jlongster/absurd-sql).
+A twitter-like [nostr](https://github.com/fiatjaf/nostr) client using [absurd-sql](https://github.com/jlongster/absurd-sql).
 
-https://user-images.githubusercontent.com/1653275/149637874-5ae1e400-1de0-42f1-9946-c4cec19347ed.mp4
-
-_branle_ assumes it will be deployed to [Netlify](https://netlify.com/). If you want to deploy it elsewhere in your own machine you'll have to find a way to mimic the custom headers and avatar proxy function. See [netlify.toml](netlify.toml).
 
 ## Install the dependencies
 ```bash
